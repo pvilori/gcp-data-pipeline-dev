@@ -1,4 +1,4 @@
-# gcp-data-pipeline-dev: Plataforma ELT y Orquestación
+# gcp-data-pipeline-dev: Plataforma ELT y Orquestación.
 
 Este repositorio contiene la arquitectura de datos ELT (Extract, Load, Transform) desplegada en Google Cloud Platform (GCP), diseñada para la **automatización de la ingesta de datos** y la **orquestación de flujos de trabajo** complejos, incluyendo un patrón seguro para interactuar con APIs externas con límites de tasa (Rate Limiting).
 
