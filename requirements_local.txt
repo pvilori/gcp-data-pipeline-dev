@@ -1,0 +1,8 @@
+# Bibliotecas de Google Cloud para desarrollo local
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-pubsub
+
+# Bibliotecas para testing
+pytest
+pytest-cov
